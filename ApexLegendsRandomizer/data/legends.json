@@ -1,4 +1,78 @@
-{
-    "name": "ASH",
-    "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/ash.png"
-}
+[
+    {
+        "name": "ASH",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/ash.png"
+    },
+    {
+        "name": "BANGALORE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/bangalore.png"
+    },
+    {
+        "name": "BLOODHOUND",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/bloodhound.png"
+    },
+    {
+        "name": "CAUSTIC",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/caustic.png"
+    },
+    {
+        "name": "CRYPTO",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/crypto.png"
+    },
+    {
+        "name": "FUSE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/fuse.png"
+    },
+    {
+        "name": "GIBRALTAR",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/gibraltar.png"
+    },
+    {
+        "name": "HORIZON",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/horizon.png"
+    },
+    {
+        "name": "LIFELINE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/lifeline.png"
+    },
+    {
+        "name": "LOBA",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/loba.png"
+    },
+    {
+        "name": "MIRAGE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/mirage.png"
+    },
+    {
+        "name": "OCTANE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/octane.png"
+    },
+    {
+        "name": "PATHFINDER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/pathfinder.png"
+    },
+    {
+        "name": "RAMPART",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/rampart.png"
+    },
+    {
+        "name": "REVENANT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/revenant.png"
+    },
+    {
+        "name": "SEER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/seer.png"
+    },
+    {
+        "name": "VALKYRIE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/valkyrie.png"
+    },
+    {
+        "name": "WATTSON",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/wattson.png"
+    },
+    {
+        "name": "WRAITH",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/wraith.png"
+    }
+]
