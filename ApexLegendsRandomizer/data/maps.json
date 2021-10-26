@@ -1,0 +1,87 @@
+[
+    {
+        "name": "OLYMPUS",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/olympus.jpg",
+        "locations": [
+            "DOCKS",
+            "CARRIER",
+            "POWER GRID",
+            "FIGHT NIGHT",
+            "ELYSIUM",
+            "HYDROPONICS",
+            "OASIS",
+            "ESTATES",
+            "TURBINE",
+            "HAMMOND LABS",
+            "BONSAI PLAZA",
+            "ENERGY DEPOT",
+            "SOLAR ARRAY",
+            "RIFT",
+            "ICARUS",
+            "GARDENS",
+            "GROW TOWERS",
+            "ORBITAL CANNON"
+        ]
+    },
+    {
+        "name": "WORLD'S EDGE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/worlds_edge.jpg",
+        "locations": [
+            "LAVA FISSURE",
+            "TRIALS",
+            "COUNTDOWN",
+            "SKYHOOK",
+            "LANDSLIDE",
+            "STAGING",
+            "THERMAL STATION",
+            "THE TREE",
+            "HARVESTER",
+            "FRAGMENT WEST",
+            "FRAGMENT EAST",
+            "LAVA SIPHON",
+            "LAUNCH SITE",
+            "SURVEY CAMP",
+            "THE EPICENTER",
+            "CLIMATIZER",
+            "OVERLOOK",
+            "THE DOME",
+            "LAVA CITY",
+            "BIG MAUDE",
+            "THE GEYSER"
+        ]
+    },
+    {
+        "name": "KINGS CANYON",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/kings_canyon.jpg",
+        "locations": [
+            "RUNOFF",
+            "AIRBASE",
+            "GAUNTLET",
+            "SPOTTED LAKE",
+            "THE PIT",
+            "BUNKER",
+            "SALVAGE",
+            "CRASH SITE",
+            "CONTAINMENT",
+            "MARKET",
+            "ARTILLERY",
+            "CAUSTIC TREATMENT",
+            "THE CAGE",
+            "CAPACITOR",
+            "BROKEN RELAY",
+            "LABS",
+            "MAP ROOM",
+            "REPULSOR",
+            "HYDRO DAM",
+            "THE RIG",
+            "SWAMPS"
+        ]
+    },
+    {
+        "name": "STORM POINT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/storm_point.jpg",
+        "locations": [
+            "COMING SOON"
+        ]
+    }
+]

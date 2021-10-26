@@ -1,30 +1,114 @@
 [
-    "30-30 REPEATER",
-    "ALTERNATOR",
-    "BOCEK",
-    "CAR",
-    "CHARGE RIFLE",
-    "DEVOTION",
-    "EVA-8 AUTO",
-    "FLATLINE",
-    "G7 SCOUT",
-    "HAVOC",
-    "HEMLOK",
-    "KRABER",
-    "L-STAR",
-    "LONGBOW",
-    "MASTIFF",
-    "MOZAMBIQUE",
-    "P2020",
-    "PEACEKEEPER",
-    "PROWLER",
-    "R-301",
-    "R-99",
-    "RAMPAGE",
-    "RE-45",
-    "SENTINEL",
-    "SPITFIRE",
-    "TRIPLE TAKE",
-    "VOLT",
-    "WINGMAN"
+    {
+        "name": "30-30 REPEATER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/30-30_repeater.png"
+    },
+    {
+        "name": "ALTERNATOR",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/alternator.png"
+    },
+    {
+        "name": "BOCEK",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/bocek.png"
+    },
+    {
+        "name": "CAR",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/car.png"
+    },
+    {
+        "name": "CHARGE RIFLE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/charge_rifle.png"
+    },
+    {
+        "name": "DEVOTION",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/devotion.png"
+    },
+    {
+        "name": "EVA-8 AUTO",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/eva-8_auto.png"
+    },
+    {
+        "name": "FLATLINE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/flatline.png"
+    },
+    {
+        "name": "G7 SCOUT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/g7_scout.png"
+    },
+    {
+        "name": "HAVOC",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/havoc.png"
+    },
+    {
+        "name": "HEMLOK",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/hemlok.png"
+    },
+    {
+        "name": "KRABER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/kraber.png"
+    },
+    {
+        "name": "L-STAR",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/l-star.png"
+    },
+    {
+        "name": "LONGBOW",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/longbow.png"
+    },
+    {
+        "name": "MASTIFF",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/mastiff.png"
+    },
+    {
+        "name": "MOZAMBIQUE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/mozambique.png"
+    },
+    {
+        "name": "P2020",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/p2020.png"
+    },
+    {
+        "name": "PEACEKEEPER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/peacekeeper.png"
+    },
+    {
+        "name": "PROWLER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/prowler.png"
+    },
+    {
+        "name": "R-301",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/r-301.png"
+    },
+    {
+        "name": "R-99",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/r-99.png"
+    },
+    {
+        "name": "RAMPAGE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/rampage.png"
+    },
+    {
+        "name": "RE-45",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/re-45.png"
+    },
+    {
+        "name": "SENTINEL",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/sentinel.png"
+    },
+    {
+        "name": "SPITFIRE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/spitfire.png"
+    },
+    {
+        "name": "TRIPLE TAKE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/triple_take.png"
+    },
+    {
+        "name": "VOLT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/volt.png"
+    },
+    {
+        "name": "WINGMAN",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/weapons/v3/wingman.png"
+    }
 ]
