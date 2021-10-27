@@ -1,5 +1,28 @@
 [
     {
+        "name": "STORM POINT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/storm_point.jpg",
+        "locations": [
+            "BAROMETER",
+            "COMMAND CENTER",
+            "THE ANTENNA",
+            "CHECKPOINT",
+            "LIGHTNING ROD",
+            "STORM CATCHER",
+            "NORTH PAD",
+            "THE MILL",
+            "SHIPFALL",
+            "CENOTE CAVE",
+            "THE WALL",
+            "HIGHPOINT",
+            "THUNDER WATCH",
+            "CASCADE FALLS",
+            "LAUNCH SITE",
+            "FISH FARMS",
+            "GALE STATION"
+        ]
+    },
+    {
         "name": "OLYMPUS",
         "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/olympus.jpg",
         "locations": [
@@ -75,29 +98,6 @@
             "HYDRO DAM",
             "THE RIG",
             "SWAMPS"
-        ]
-    },
-    {
-        "name": "STORM POINT",
-        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/storm_point.jpg",
-        "locations": [
-            "BAROMETER",
-            "COMMAND CENTER",
-            "THE ANTENNA",
-            "CHECKPOINT",
-            "LIGHTNING ROD",
-            "STORM CATCHER",
-            "NORTH PAD",
-            "THE MILL",
-            "SHIPFALL",
-            "CENOTE CAVE",
-            "THE WALL",
-            "HIGHPOINT",
-            "THUNDER WATCH",
-            "CASCADE FALLS",
-            "LAUNCH SITE",
-            "FISH FARMS",
-            "GALE STATION"
         ]
     }
 ]
