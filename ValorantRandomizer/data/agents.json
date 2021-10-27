@@ -1,0 +1,66 @@
+[
+    {
+        "name": "ASTRA",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/astra.png"
+    },
+    {
+        "name": "BREACH",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/breach.png"
+    },
+    {
+        "name": "BRIMSTONE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/brimstone.png"
+    },
+    {
+        "name": "CYPHER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/cypher.png"
+    },
+    {
+        "name": "JETT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/jett.png"
+    },
+    {
+        "name": "KAY/O",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/kayo.png"
+    },
+    {
+        "name": "KILLJOY",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/killjoy.png"
+    },
+    {
+        "name": "OMEN",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/omen.png"
+    },
+    {
+        "name": "PHOENIX",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/phoenix.png"
+    },
+    {
+        "name": "RAZE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/raze.png"
+    },
+    {
+        "name": "REYNA",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/reyna.png"
+    },
+    {
+        "name": "SAGE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/sage.png"
+    },
+    {
+        "name": "SKYE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/skye.png"
+    },
+    {
+        "name": "SOVA",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/sova.png"
+    },
+    {
+        "name": "VIPER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/viper.png"
+    },
+    {
+        "name": "YORU",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/yoru.png"
+    }
+]
