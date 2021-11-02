@@ -12,6 +12,10 @@
         "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/brimstone.png"
     },
     {
+        "name": "CHAMBER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/chamber.png"
+    },
+    {
         "name": "CYPHER",
         "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/cypher.png"
     },
