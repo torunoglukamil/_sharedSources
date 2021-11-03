@@ -1,0 +1,22 @@
+[
+    {
+        "name": "CLASSIC",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/secondary/classic.png"
+    },
+    {
+        "name": "FRENZY",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/secondary/frenzy.png"
+    },
+    {
+        "name": "GHOST",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/secondary/ghost.png"
+    },
+    {
+        "name": "SHERIFF",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/secondary/sheriff.png"
+    },
+    {
+        "name": "SHORTY",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/secondary/shorty.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ARES",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/ares.png"
+    },
+    {
+        "name": "BUCKY",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/bucky.png"
+    },
+    {
+        "name": "BULLDOG",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/bulldog.png"
+    },
+    {
+        "name": "GUARDIAN",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/guardian.png"
+    },
+    {
+        "name": "JUDGE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/judge.png"
+    },
+    {
+        "name": "MARSHAL",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/marshal.png"
+    },
+    {
+        "name": "ODIN",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/odin.png"
+    },
+    {
+        "name": "OPERATOR",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/operator.png"
+    },
+    {
+        "name": "PHANTOM",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/phantom.png"
+    },
+    {
+        "name": "SPECTRE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/spectre.png"
+    },
+    {
+        "name": "STINGER",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/stinger.png"
+    },
+    {
+        "name": "VANDAL",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/arsenal/primary/vandal.png"
+    }
+]

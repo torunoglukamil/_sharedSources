@@ -1,0 +1,30 @@
+[
+    {
+        "name": "ASCENT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/maps/ascent.png"
+    },
+    {
+        "name": "BIND",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/maps/bind.png"
+    },
+    {
+        "name": "BREEZE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/maps/breeze.png"
+    },
+    {
+        "name": "FRACTURE",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/maps/fracture.png"
+    },
+    {
+        "name": "HAVEN",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/maps/haven.png"
+    },
+    {
+        "name": "ICEBOX",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/maps/icebox.png"
+    },
+    {
+        "name": "SPLIT",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/maps/split.png"
+    }
+]
