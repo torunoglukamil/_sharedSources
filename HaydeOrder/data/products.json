@@ -2,7 +2,27 @@
     {
         "name": "Çay",
         "price": 1.00,
-        "iconLink": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/legends/v2/ash.png"
+        "iconLink": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/HaydeOrder/assets/icons/tea.png"
     },
+    {
+        "name": "Fincan Çay",
+        "price": 2.00,
+        "iconLink": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/HaydeOrder/assets/icons/cup_of_tea.png"
+    },
+    {
+        "name": "Yeşil Çay",
+        "price": 2.50,
+        "iconLink": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/HaydeOrder/assets/icons/green_tea.png"
+    },
+    {
+        "name": "Soda",
+        "price": 1.00,
+        "iconLink": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/HaydeOrder/assets/icons/soda.png"
+    },
+    {
+        "name": "Su",
+        "price": 1.00,
+        "iconLink": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/HaydeOrder/assets/icons/water.png"
+    }
     
 ]
