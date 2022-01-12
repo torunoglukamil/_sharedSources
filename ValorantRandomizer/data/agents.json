@@ -32,6 +32,10 @@
         "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/killjoy.png"
     },
     {
+        "name": "NEON",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/neon.png"
+    },
+    {
         "name": "OMEN",
         "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ValorantRandomizer/agents/omen.png"
     },
